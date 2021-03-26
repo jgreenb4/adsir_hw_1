@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "blog.html",
+      "title": "Blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-25T22:29:08-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Jake Greenberg's Website",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\nAbout Me\nHello! My name is Jake Greenberg (he/him). Welcome to my website!\nEducation:\nI am currently enrolled in my last semester of courses at Macalester College, where I am majoring in Economics and minoring in Statistics.\nHobbies:\nIn my free time, I enjoy both watching and playing sports, especially baseball. I also really enjoy playing board games, such as Settlers of Catan and Monopoly.\n\n\n\n",
+      "last_modified": "2021-03-25T22:29:09-05:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
